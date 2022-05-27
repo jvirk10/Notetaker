@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "Welcome",
+      "text": "This is my first express app.",
+      "id": "7ad5a226-e07a-4eff-8464-94b4474d9e07"
+    },
+    {
+      "title": "Hello",
+      "text": "Hi",
+      "id": "3284ac9e-0d5b-44ef-b52a-657c15c6da48"
+    }
+  ]
+}
